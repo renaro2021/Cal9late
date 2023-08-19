@@ -6,7 +6,7 @@ I took most of the code from my K3Tree project (you can also see that in my Gith
 
 # Safety
 VirusTotal results for the APK
-https://www.virustotal.com/gui/file/8d9b2261ee52feccba539ecbde42afabe77532dda57287de0f9f3f0419d46c05?nocache=1
+https://www.virustotal.com/gui/file/5b82992c4b905ded52e55fb61f685f505b098e2e3a1621eaae7ef70e0d11fa87?nocache=1
 
 # Installation
 There is an APK available that is uploaded in Github. You may download it from the Github Release.
