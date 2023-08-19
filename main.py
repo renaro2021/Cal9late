@@ -9,6 +9,8 @@ class Calc(App):
     def build(self):
         Window.maximize()
         Window.bind(on_resize=self.windowresize)
+        self.title="Cal9late"
+        self.icon="icon.png"
         self.endb = None
         self.enda=None
         self.pass2 = ""
