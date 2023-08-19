@@ -14,6 +14,9 @@ I took most of the code from my K3Tree project (you can also see that in my Gith
 VirusTotal results for the APK
 https://www.virustotal.com/gui/file/5b82992c4b905ded52e55fb61f685f505b098e2e3a1621eaae7ef70e0d11fa87?nocache=1
 
+## Checksum
+SHA256 (Done Locally) : 5b82992c4b905ded52e55fb61f685f505b098e2e3a1621eaae7ef70e0d11fa87
+
 # Installation
 There is an APK available that is uploaded in Github. You may download it from the Github Release.
 
