@@ -19,3 +19,5 @@ There is an APK available that is uploaded in Github. You may download it from t
 
 # Notes
 The bugs I have noticed is that despite the program having a Multiline feature for the Character Displaying Field, you cannot scroll it so only the latest 2 lines will work. This has to do with how it is handled on Android and there seems to be a fix but complicated. I cannot promise a fix for it but I'm still taking a look in the case.
+
+There would be a difference in the APK and that is the TextInput field where the numbers is displayed. I have made the displayed character's size a little smaller in the main.py that you could execute on Desktop as well. The reason for this is that there is a little bug where the displayed characters moves when the font size of the displayed characters is big.
