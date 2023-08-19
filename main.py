@@ -43,7 +43,7 @@ class Calc(App):
         try:
             chars = self.solution.text
             if chars:
-                over = str(eval(self.solution.text))
+                over = str(round(eval(self.solution.text), 5))
                 self.solution.text = over
         except (SyntaxError, ZeroDivisionError, NameError):
             self.solution.text = "Error"
