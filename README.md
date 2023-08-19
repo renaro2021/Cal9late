@@ -4,6 +4,10 @@ The meaning of the name Cal9late with the 9 in the middle points out on it's pro
 
 I took most of the code from my K3Tree project (you can also see that in my Github) and stripped it down to a modified version.
 
+# Download
+<!-- BEGIN LATEST DOWNLOAD BUTTON -->
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/renaro2021/Cal9late/releases/download/Android/cal9-0.1-arm64-v8a_armeabi-v7a-debug.apk)
+<!-- END LATEST DOWNLOAD BUTTON -->
 # Safety
 VirusTotal results for the APK
 https://www.virustotal.com/gui/file/5b82992c4b905ded52e55fb61f685f505b098e2e3a1621eaae7ef70e0d11fa87?nocache=1
