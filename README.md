@@ -18,7 +18,7 @@ https://www.virustotal.com/gui/file/5b82992c4b905ded52e55fb61f685f505b098e2e3a16
 SHA256 (Done Locally) : 5b82992c4b905ded52e55fb61f685f505b098e2e3a1621eaae7ef70e0d11fa87
 
 # Installation
-There is an APK available that is uploaded in Github. You may download it from the Github Release.
+There is an APK available that is uploaded in Github. You may download it from the Github Release or just click the Download Button on this page. 
 
 # Notes
 The bugs I have noticed is that despite the program having a Multiline feature for the Character Displaying Field, you cannot scroll it so only the latest 2 lines will work. This has to do with how it is handled on Android and there seems to be a fix but complicated. I cannot promise a fix for it but I'm still taking a look in the case.
