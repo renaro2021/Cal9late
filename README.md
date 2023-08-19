@@ -4,6 +4,10 @@ The meaning of the name Cal9late with the 9 in the middle points out on it's pro
 
 I took most of the code from my K3Tree project (you can also see that in my Github) and stripped it down to a modified version.
 
+# Safety
+VirusTotal results for the APK
+https://www.virustotal.com/gui/file/8d9b2261ee52feccba539ecbde42afabe77532dda57287de0f9f3f0419d46c05?nocache=1
+
 # Installation
 There is an APK available that is uploaded in Github. You may download it from the Github Release.
 
