@@ -13,7 +13,7 @@ class Calc(App):
         self.enda=None
         self.pass2 = ""
         self.calcs = ["+","-","*","/"]
-        self.solution=TextInput(foreground_color="black",background_color="white",halign="right",font_size=150,height=55,readonly=True,multiline=True)
+        self.solution=TextInput(foreground_color="black",background_color="white",halign="right",font_size=100,height=55,readonly=True,multiline=True)
         self.mainpage=BoxLayout(orientation="vertical")
         self.mainpage.add_widget(self.solution)
         chars=[["/",".","0","C"],
