@@ -41,12 +41,16 @@ class Calc(App):
         self.mainpage.add_widget(equals)
         return self.mainpage 
     
-    def results(self,instance):   
+    def results(self,instance):
         try:
             chars = self.solution.text
             if chars:
-                over = str(round(eval(self.solution.text), 5))
-                self.solution.text = over
+                result = eval(chars)
+                if isinstance(result, (int, float)):
+                    over = str(round(result, 5))
+                    self.solution.text = over
+                else:
+                    self.solution.text = "Error"
         except (SyntaxError, ZeroDivisionError, NameError):
             self.solution.text = "Error"
 
